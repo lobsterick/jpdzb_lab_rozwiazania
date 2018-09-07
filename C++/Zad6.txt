@@ -1,0 +1,3 @@
+alamakota	5
+kotamaala	5
+kosa	2
